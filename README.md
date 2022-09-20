@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/utkarsh-harshe-4591121bb/)
-[![Stcak Overflow](https://stackoverflow.com/users/18800387/utkarsh-harshe?tab=profile)
+[![Linkedin Badge](www.linkedin.com/in/utkarsh-harshe-4591121bb)](https://www.linkedin.com/in/aakash--01629954/)
+
 
 I'm
 Full Stack Solution Architect
