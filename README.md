@@ -1,63 +1,106 @@
-<!--
-**utkarshharshe/utkarshharshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Utkarsh Harshe</h1>
+<h3 align="center">Full Stack Developer | JavaScript | React | Node.js | Java | MongoDB</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there 👋, I'm Utkarsh</h1>
-<h5 align="center">  
- I love to work in Java & Javascript and learn new tools & tech, best suited for the job at hand. 
-<br/> 
- Honing my skills, by building dynamic web projects using React.js, Java, Hibernate & SpringBoot.
-</h5>
-
-
-<h3 align="center">My Skillset</h3>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <span>_</span>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <span>_</span>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <span>_</span>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>    
-  <span>_</span>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <span>_</span>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <span>_</span>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <span>_</span>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <span>_</span>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <span>_</span>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <span>_</span>
-  
-</p>
-
-
-<h3 align="center">Always on the lookout for</h3>
-<p align="center"> 
-Fresh challenges and opportunities to hone my skills, <br/>
-and keep my coding fire burning bright. 
-</p>
-
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="www.linkedin.com/in/utkarsh-r-harshe " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishjuware" height="30" width="40" /></a>
+  <a href="https://utkarshharshe-inky.vercel.app/" target="_blank"><strong>🌐 Portfolio</strong></a> |
+  <a href="mailto:utkarshharshe06@gmail.com"><strong>📩 Email</strong></a> |
+  <a href="https://www.linkedin.com/in/utkarsh-r-harshe/" target="_blank"><strong>🔗 LinkedIn</strong></a> |
+  <a href="https://github.com/UtkarshRH" target="_blank"><strong>👨‍💻 GitHub</strong></a>
 </p>
 
+---
 
-<h3 align="center">
-  💥 Keep learning & keep growing! 💥
-</h3>
+### 🧠 About Me
+
+🎯 Passionate Full Stack Developer from India  
+💻 I love turning complex problems into clean, efficient solutions  
+🛠️ I enjoy building dynamic web apps, dashboards, backend systems, and clean UIs  
+🚀 Currently working on **Ola’s AI platform Kruti.ai**  
+🌱 I enjoy learning tools like DevOps, AWS, GitHub Actions, and exploring system design
+
+---
+
+### ⚙️ My Skillset
+
+#### 💻 Languages, Tools & Frameworks
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
+
+---
+
+### 🏆 What I Love To Do
+
+- 💡 Build innovative full stack web applications  
+- 🔍 Work with real-time data dashboards (IoT, Analytics)  
+- 🎨 Design responsive UIs with clean aesthetics  
+- 🧪 Integrate APIs and automate workflows  
+- 🚀 Optimize frontend performance and backend efficiency  
+- 🧱 Build reusable components and scalable systems  
+
+---
+
+### 🧩 Achievements
+
+- 🚀 Developed AI content scheduling system for **Kruti.ai by Ola**  
+- 📊 Built a real-time IoT dashboard with **React + Golain + MongoDB**  
+- 🎥 Engineered a secure **video streaming backend** using Cloudinary & JWT  
+- ⚡ Boosted load speed by **30%** through frontend optimization  
+- 🛠️ Contributed to Agile teams and shipped production-level features  
+
+---
+
+### 📈 GitHub Stats & Daily Tracker
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=UtkarshRH&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-r-harshe/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:utkarshharshe06@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/UtkarshRH" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" />
+  </a>
+</p>
+
+---
+
+> ✨ *“Great code doesn’t just solve problems — it creates possibilities.”*
+
