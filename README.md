@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://utkarshharshe-inky.vercel.app/utkarsh-harshe.jpg" alt="Utkarsh Harshe" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hey there! 👋 I'm Utkarsh Harshe</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Java | MongoDB | Spring Boot</h3>
+<h3 align="center">🚀 Full Stack Developer | JavaScript | React | Node.js | Java | Spring Boot</h3>
 
 <p align="center">
   <a href="https://utkarshharshe-inky.vercel.app/" target="_blank"><strong>🌐 Portfolio</strong></a> |
@@ -12,10 +16,10 @@
 
 ### 🧠 About Me
 
-💻 Full Stack Developer passionate about crafting clean, scalable apps  
-🏗️ Strong in React, Node.js, Spring Boot, MongoDB, MySQL  
-📈 Love creating dashboards, backend APIs, and intelligent systems  
-⚡ Contributor to Ola's **Kruti.ai** and real-time IoT dashboards  
+💼 Full Stack Developer passionate about building smart, scalable web applications  
+🧩 Skilled in JavaScript, Java, MERN stack, Spring Boot, and API development  
+📊 Love building dashboards, APIs, backend services, and beautiful UIs  
+📌 Constantly exploring tools, patterns, and performance optimization  
 
 ---
 
@@ -44,17 +48,17 @@
 
 ---
 
-### 🎯 Highlights & Achievements
+### 🏆 Experience & Strengths
 
-- 🧠 Built **prompt scheduling system** for Ola's Kruti.ai  
-- 📊 Created IoT dashboards with **React + MongoDB + Golain**  
-- 📹 Engineered secure **video platform backend** with JWT + Cloudinary  
-- 🚀 Optimized frontend performance by **30%**  
-- 📂 Delivered production-grade features in Agile teams  
+- End-to-end full stack web development  
+- Frontend design with modern UI libraries  
+- Backend APIs and microservices with Node.js / Spring Boot  
+- Strong foundation in data structures, DBs, and clean architecture  
+- Quick learner and team collaborator  
 
 ---
 
-### 📈 Contribution & Activity Tracker
+### 📈 GitHub Stats & Contribution Tracker
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&theme=react&hide_border=false" />
@@ -70,19 +74,13 @@
 
 ---
 
-### 🧭 What Drives Me
-
-- 💡 Turning ideas into full-stack apps  
-- 🎯 Automating and optimizing systems  
-- 🧪 Experimenting with new tools  
-- 📚 Sharing knowledge and mentoring  
-- 🔄 Never stop learning and shipping!
-
----
-
-### 📬 Reach Out To Me
+### 📬 Connect With Me
 
 <p align="center">
+  <a href="https://utkarshharshe-inky.vercel.app/" target="_blank">
+    🌐 <strong>utkarshharshe-inky.vercel.app</strong>
+  </a>
+  <br/>
   <a href="https://www.linkedin.com/in/utkarsh-r-harshe/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" />
   </a>
@@ -98,4 +96,4 @@
 
 ---
 
-> ✨ *“Code with purpose. Build with passion.”*
+> ✨ *“Crafting code that’s clean, fast, and future-ready.”*
