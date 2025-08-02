@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Harshe</h1>
-<h3 align="center">Full Stack Developer | JavaScript | React | Node.js | Java | MongoDB</h3>
+<h1 align="center">Hey there! 👋 I'm Utkarsh Harshe</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | Java | MongoDB | Spring Boot</h3>
 
 <p align="center">
   <a href="https://utkarshharshe-inky.vercel.app/" target="_blank"><strong>🌐 Portfolio</strong></a> |
@@ -12,79 +12,75 @@
 
 ### 🧠 About Me
 
-🎯 Passionate Full Stack Developer from India  
-💻 I love turning complex problems into clean, efficient solutions  
-🛠️ I enjoy building dynamic web apps, dashboards, backend systems, and clean UIs  
-🚀 Currently working on **Ola’s AI platform Kruti.ai**  
-🌱 I enjoy learning tools like DevOps, AWS, GitHub Actions, and exploring system design
+💻 Full Stack Developer passionate about crafting clean, scalable apps  
+🏗️ Strong in React, Node.js, Spring Boot, MongoDB, MySQL  
+📈 Love creating dashboards, backend APIs, and intelligent systems  
+⚡ Contributor to Ola's **Kruti.ai** and real-time IoT dashboards  
 
 ---
 
-### ⚙️ My Skillset
-
-#### 💻 Languages, Tools & Frameworks
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
 ---
 
-### 🏆 What I Love To Do
+### 🎯 Highlights & Achievements
 
-- 💡 Build innovative full stack web applications  
-- 🔍 Work with real-time data dashboards (IoT, Analytics)  
-- 🎨 Design responsive UIs with clean aesthetics  
-- 🧪 Integrate APIs and automate workflows  
-- 🚀 Optimize frontend performance and backend efficiency  
-- 🧱 Build reusable components and scalable systems  
-
----
-
-### 🧩 Achievements
-
-- 🚀 Developed AI content scheduling system for **Kruti.ai by Ola**  
-- 📊 Built a real-time IoT dashboard with **React + Golain + MongoDB**  
-- 🎥 Engineered a secure **video streaming backend** using Cloudinary & JWT  
-- ⚡ Boosted load speed by **30%** through frontend optimization  
-- 🛠️ Contributed to Agile teams and shipped production-level features  
+- 🧠 Built **prompt scheduling system** for Ola's Kruti.ai  
+- 📊 Created IoT dashboards with **React + MongoDB + Golain**  
+- 📹 Engineered secure **video platform backend** with JWT + Cloudinary  
+- 🚀 Optimized frontend performance by **30%**  
+- 📂 Delivered production-grade features in Agile teams  
 
 ---
 
-### 📈 GitHub Stats & Daily Tracker
+### 📈 Contribution & Activity Tracker
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&theme=react&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=UtkarshRH&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=UtkarshRH&theme=react&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=react&hide_border=false" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🧭 What Drives Me
+
+- 💡 Turning ideas into full-stack apps  
+- 🎯 Automating and optimizing systems  
+- 🧪 Experimenting with new tools  
+- 📚 Sharing knowledge and mentoring  
+- 🔄 Never stop learning and shipping!
+
+---
+
+### 📬 Reach Out To Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-r-harshe/" target="_blank">
@@ -102,5 +98,4 @@
 
 ---
 
-> ✨ *“Great code doesn’t just solve problems — it creates possibilities.”*
-
+> ✨ *“Code with purpose. Build with passion.”*
