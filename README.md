@@ -16,10 +16,10 @@
 
 ### 🧠 About Me
 
-💼 Full Stack Developer passionate about building smart, scalable web applications  
-🧩 Skilled in JavaScript, Java, MERN stack, Spring Boot, and API development  
-📊 Love building dashboards, APIs, backend services, and beautiful UIs  
-📌 Constantly exploring tools, patterns, and performance optimization  
+💼 Full Stack Developer passionate about building smart, scalable web applications.  
+🧩 Skilled in JavaScript, Java, MERN stack, Spring Boot, and API development.  
+📊 Love building dashboards, APIs, backend services, and beautiful UIs.  
+📌 Constantly exploring tools, patterns, and performance optimization.
 
 ---
 
