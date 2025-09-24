@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Utkarsh Harshe</h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript | React | Node.js | Java | Spring Boot</h3>
+<h3 align="center">🚀 Full Stack Developer | JavaScript | React | Node.js | Java | Spring Boot | Docker</h3>
 
 <p align="center">
   <a href="https://utkarshharshe-inky.vercel.app/" target="_blank"><strong>🌐 Portfolio</strong></a> |
@@ -16,10 +16,10 @@
 
 ### 🧠 About Me
 
-💼 Full Stack Developer passionate about building smart, scalable web applications.  
-🧩 Skilled in JavaScript, Java, MERN stack, Spring Boot, and API development.  
-📊 Love building dashboards, APIs, backend services, and beautiful UIs.  
-📌 Constantly exploring tools, patterns, and performance optimization.
+💼 Full Stack Developer passionate about building scalable, user-friendly web applications.  
+🧩 Skilled in **JavaScript**, **Java**, **MERN stack**, **Spring Boot**, **API development**, and **Docker**.  
+📊 Love crafting dashboards, backend services, APIs, and sleek frontends.  
+📌 Constantly exploring tools, patterns, cloud deployment, and performance optimization.
 
 ---
 
@@ -44,33 +44,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
-
 
 ---
 
 ### 🏆 Experience & Strengths
 
 - End-to-end full stack web development  
-- Frontend design with modern UI libraries  
-- Backend APIs and microservices with Node.js / Spring Boot  
-- Strong foundation in data structures, DBs, and clean architecture  
-- Quick learner and team collaborator  
+- Frontend design with **React**, **Tailwind**, and modern UI libraries  
+- Backend APIs & microservices with **Node.js**, **Spring Boot**, and **Dockerized deployments**  
+- Strong foundation in **data structures**, databases, and clean architecture  
+- Quick learner, collaborative team player, and problem solver  
 
 ---
 
-### 📈 GitHub Stats & Contribution Tracker
+### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&theme=react&hide_border=false" />
+  <!-- Total Contributions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshRH&theme=radical" alt="GitHub Streak" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- Repo Stars & Commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=UtkarshRH&theme=react&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=react&hide_border=false" />
+  <!-- Extra Cool Badges -->
+  <img src="https://img.shields.io/github/followers/UtkarshRH?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/watchers/UtkarshRH?style=social" />
+  <img src="https://img.shields.io/github/issues/UtkarshRH?style=flat-square&color=success" />
+  <img src="https://img.shields.io/github/last-commit/UtkarshRH?style=flat-square&color=informational" />
 </p>
 
 ---
@@ -79,7 +86,7 @@
 
 <p align="center">
   <a href="https://utkarshharshe-inky.vercel.app/" target="_blank">
-    🌐 <strong>utkarshharshe-inky.vercel.app</strong>
+    🌐 <strong>Portfolio</strong>
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/utkarsh-r-harshe/" target="_blank">
