@@ -62,11 +62,14 @@
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
+  <!-- GitHub Streak (Fixed version using alternative API) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshRH&theme=radical&hide_border=true" alt="GitHub Streak" />
+
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
   <!-- Repo Stars & Commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshRH&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
