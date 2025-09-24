@@ -62,9 +62,6 @@
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <!-- Total Contributions -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshRH&theme=radical" alt="GitHub Streak" />
-
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRH&layout=compact&theme=radical" alt="Top Languages" />
 
@@ -73,11 +70,12 @@
 </p>
 
 <p align="center">
-  <!-- Extra Cool Badges -->
-  <img src="https://img.shields.io/github/followers/UtkarshRH?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/watchers/UtkarshRH?style=social" />
-  <img src="https://img.shields.io/github/issues/UtkarshRH?style=flat-square&color=success" />
-  <img src="https://img.shields.io/github/last-commit/UtkarshRH?style=flat-square&color=informational" />
+  <!-- Cool Badges -->
+  <img src="https://img.shields.io/badge/🔥-Total%20Commits-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐-Total%20Stars-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👨‍💻-Contributions-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-@UtkarshRH-blue?style=for-the-badge&logo=github" />
 </p>
 
 ---
